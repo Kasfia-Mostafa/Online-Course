@@ -16,6 +16,10 @@
 
 Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZDE2NDBkMmItYmVmMC00ZDA5LWI4ZDYtMjZhOTA2M2RhMjUxIiwidCI6ImZiODdjOTRiLTk3YjktNDI1Yy05OGFiLTAxZWIzZWIzMjlkOSIsImMiOjEwfQ%3D%3D
 
-https://github.com/Kasfia-Mostafa/Online-Course/blob/main/1.png?raw=true
+![image alt](https://github.com/Kasfia-Mostafa/Online-Course/blob/main/1.png?raw=true)
 <br />
-https://github.com/Kasfia-Mostafa/Online-Course/blob/main/2.png?raw=true
+![image alt](https://github.com/Kasfia-Mostafa/Online-Course/blob/main/2.png?raw=true)
+<br />
+![image alt](https://github.com/Kasfia-Mostafa/Online-Course/blob/main/2.png?raw=true)
+<br />
+![image alt](https://github.com/Kasfia-Mostafa/Online-Course/blob/main/2.png?raw=true)
